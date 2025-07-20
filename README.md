@@ -1,8 +1,4 @@
-Sure! Here's the complete, polished, and VS Code–ready `README.md` content — formatted cleanly for direct copy-paste into your project folder:
 
----
-
-```markdown
 # 📉 Telco Customer Churn Analysis and Prediction
 
 A full-stack data science project that explores, models, and visualizes customer churn patterns in the telecom sector using Python, Streamlit, and Orange. This solution blends real-world business strategy, predictive modeling, and an interactive dashboard to help telecom companies **retain customers and boost revenue**.
@@ -143,15 +139,3 @@ Data Scientist | ML Engineer | Prompt Engineer
 
 ---
 
-## ☁️ Hosting Tips
-
-| Component                 | Hosting Recommendation                          | Reason                                    |
-| ------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| **Dashboard**             | ✅ [Streamlit Cloud](https://streamlit.io/cloud) | Free, fast deployment, and public access  |
-| **Code Repository**       | ✅ GitHub                                        | Standard for portfolio projects           |
-| **Project Report**        | ✅ Google Drive or GitHub                        | Easy sharing (PDF or DOCX format)         |
-| **Screenshots & Visuals** | ✅ Inside `/visuals` folder                      | For LinkedIn previews and GitHub showcase |
-
----
-
- 
