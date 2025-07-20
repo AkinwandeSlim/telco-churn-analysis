@@ -7,15 +7,6 @@ matplotlib==3.8.4
 seaborn==0.13.2
 plotly==5.22.0
 
-# Machine Learning
-scikit-learn==1.4.2
-
 # Dashboard
 streamlit==1.35.0
 
-# Orange ML (Optional: only if using Orange in Jupyter)
-orange3==3.35.0
-
-# Utility
-joblib==1.4.2
-openpyxl==3.1.2  # if loading Excel files
