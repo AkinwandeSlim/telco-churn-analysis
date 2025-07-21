@@ -142,7 +142,7 @@ Thank you! 🙌
 
 **Akinwande Alexander**
 Data Scientist | ML Engineer | Prompt Engineer
-📫 [LinkedIn](https://www.linkedin.com/in/yourname) • 📧 [akinwande@example.com](mailto:akinwande@example.com)
+📫 [LinkedIn](https://www.linkedin.com/in/akinwandealex/) • 📧 [akinwandealex95@gmail.com](mailto:akinwandealex95@gmail.com)
 
 ---
 
