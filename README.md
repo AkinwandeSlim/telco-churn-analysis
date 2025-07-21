@@ -65,6 +65,13 @@ A full-stack data science project that explores, models, and visualizes customer
   <em>Figure: Orange ML Pipeline for Churn Prediction</em>
 </p>
 
+
+<p align="center">
+  <img src="Orange_screenshots/sorted eveal.jpg" width="700"/>
+  <br/>
+  <em>Figure: Orange ML Model Evaluation Result for Churn Prediction</em>
+</p>
+
 ---
 
 ## 📌 Key Insights
