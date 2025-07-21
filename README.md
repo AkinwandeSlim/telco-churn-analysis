@@ -11,7 +11,7 @@ A full-stack data science project that explores, models, and visualizes customer
   <em>Figure: Streamlit Dashboard Overview</em>
 </p>
 
-[Live demo](https://telco-churn-analysis-2.onrender.com/)
+[LIVE DEMO](https://telco-churn-analysis-2.onrender.com/)
 ---
 
 ## 🚀 Project Highlights
