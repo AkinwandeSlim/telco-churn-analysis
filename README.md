@@ -3,6 +3,14 @@
 
 A full-stack data science project that explores, models, and visualizes customer churn patterns in the telecom sector using Python, Streamlit, and Orange. This solution blends real-world business strategy, predictive modeling, and an interactive dashboard to help telecom companies **retain customers and boost revenue**.
 
+
+
+<p align="center">
+  <img src="dashboads_screenshots/front_views.jpg" width="700"/>
+  <br/>
+  <em>Figure: Streamlit Dashboard Overview</em>
+</p>
+
 ---
 
 ## 🚀 Project Highlights
