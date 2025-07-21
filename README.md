@@ -60,7 +60,7 @@ A full-stack data science project that explores, models, and visualizes customer
 </p>
 
 <p align="center">
-  <img src="visuals/orange_workflow.png" width="700"/>
+  <img src="Orange_screenshots/my_workflow.jpg" width="700"/>
   <br/>
   <em>Figure: Orange ML Pipeline for Churn Prediction</em>
 </p>
