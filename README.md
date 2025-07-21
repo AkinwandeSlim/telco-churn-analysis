@@ -54,7 +54,7 @@ A full-stack data science project that explores, models, and visualizes customer
 ## 📷 Sample Visuals
 
 <p align="center">
-  <img src="visuals/dashboard_screenshots.png" width="700"/>
+  <img src="dashboads_screenshots/full dashboard preview.jpg" width="700"/>
   <br/>
   <em>Figure: Streamlit Dashboard Overview</em>
 </p>
